@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Appintment = () => {
+const Appointment = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Appintment = () => {
   )
 }
 
-export default Appintment
+export default Appointment
