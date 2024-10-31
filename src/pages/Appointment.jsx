@@ -4,7 +4,7 @@ const Appointment = () => {
   return (
     <div>
       
-    </div>
+    </div> 
   )
 }
 
