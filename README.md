@@ -61,15 +61,15 @@ The homepage provides an overview of available doctors and services
 ![Registration Page](./public/images/create-account.jpeg)
 Users can create accounts by filling out the registration form.
 #### 3. Login Page
-![Login Page](./static/images/login-page.jpeg)
+![Login Page](./public/images/login-page.jpeg)
 Users can log in to manage their appointments.
 
 #### 4. Doctor Listings
-![All Doctors](./static/images/all-doctor.jpeg)
+![All Doctors](./public/images/all-doctor.jpeg)
 Browse available doctors and check their specialties..
 
 #### 5.  Booking an Appointment
-![Booking an Appointment](./static/images/doctor-details.jpeg)
+![Booking an Appointment](./public/images/doctor-details.jpeg)
 Choose your doctor and confirm your appointment.
 
 ---
