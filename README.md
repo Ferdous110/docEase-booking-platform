@@ -1,8 +1,5 @@
 # **docEase** - Doctor-Appointment-Platform
 
-
-Comfort Cocoon is a hotel room booking system designed to provide an intuitive interface for both visitors and admins to efficiently manage room bookings.
-
 ---
 
 ## **Key Features**
