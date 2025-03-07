@@ -58,40 +58,21 @@ This project showcases a fully functional doctor appointment booking system with
 The homepage provides an overview of available doctors and services
 
 #### 2. Registration Page
-![Registration Page](./static/images/screenshoots/signup.png)
+![Registration Page](./public/images/create-account.jpeg)
 Users can create accounts by filling out the registration form.
 #### 3. Login Page
-![Login Page](./static/images/screenshoots/login.png)
+![Login Page](./static/images/login-page.jpeg)
 Users can log in to manage their appointments.
 
 #### 4. Doctor Listings
-![Rooms Available](./static/images/screenshoots/room_general.png)
+![All Doctors](./static/images/all-doctor.jpeg)
 Browse available doctors and check their specialties..
 
 #### 5.  Booking an Appointment
-![Search Availability](./static/images/screenshoots/search_avialablity.png)
+![Booking an Appointment](./static/images/doctor-details.jpeg)
 Choose your doctor and confirm your appointment.
 
-#### 6.  Appointment Summary
-![Room Reservation](./static/images/screenshoots/make_reservation.png)
-Choose your desired room and confirm the booking.
-
-#### 7. User Dashboard
-![Reservation Summary](./static/images/screenshoots/reservation_summary.png)
-View your booked appointments and manage them.
-
-#### 8. Confirmation Page
-![Confirmation Page](./static/images/screenshoots/confirmatation.png)
-Confirm that your room has been successfully reserved.
-
-#### 9. Admin Dashboard
-![Admin Dashboard](./static/images/screenshoots/admin_dashboard.png)
-Admin dashboard for managing users, rooms, and bookings.
-
-
 ---
-
-
 
 ## 🌟 You've Made It This Far!
 
