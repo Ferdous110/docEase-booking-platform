@@ -1,6 +1,6 @@
 # **docEase** - Doctor-Appointment-Platform
 
----
+DocEase is a frontend web app for booking doctor appointments. Users can search specialists, view doctor profiles, and manage bookings. Admins can approve or reject appointments. Built with React.js and Tailwind CSS.
 
 ## **Key Features**
 
